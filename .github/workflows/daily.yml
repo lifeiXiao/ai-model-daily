@@ -63,7 +63,9 @@ jobs:
         run: |
           python -m pip install -r requirements-test.txt
           google-chrome --version
-          timeout 90 sudo apt-get -o Acquire::Retries=1 -o Acquire::http::Timeout=15 install -y --no-install-recommends fonts-noto-cjk
+          if ! timeout 60 sudo apt-get -o Acquire::Retries=0 -o Acquire::http::Timeout=15 install -y --no-install-recommends fonts-wqy-microhei; then
+            echo "::warning::Screenshot font unavailable; using the runner's fallback font"
+          fi
       - name: Test desktop and mobile UI
         if: github.event_name != 'schedule'
         run: python tests/browser_smoke.py
