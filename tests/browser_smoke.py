@@ -17,7 +17,7 @@ out = ROOT / "test-results"
 out.mkdir(exist_ok=True)
 try:
     with sync_playwright() as p:
-        browser = p.chromium.launch()
+        browser = p.chromium.launch(channel="chrome")
         page = browser.new_page(viewport={"width": 1440, "height": 1100}, device_scale_factor=1)
         errors = []
         page.on("pageerror", lambda error: errors.append(str(error)))

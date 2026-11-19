@@ -10,7 +10,7 @@
 - 使用 GitHub 托管的 Ubuntu runner；不使用 self-hosted runner，不依赖个人电脑、Codex 定时任务、Codex 会话或外部服务器。
 - 不调用任何付费模型 API、不做模型推理、不下载模型权重。采集仅使用公开的 HTTPS API、RSS 与官方页面，不需要另配 API Key。
 - 只使用 GitHub 自动提供的临时 GITHUB_TOKEN 提交数据和发布网站。Actions 固定到明确的提交版本。
-- 收集程序只用 Python 3.12 标准库。首次发布、手动执行和代码变更时，在 GitHub 上额外运行 Chromium 桌面与手机界面测试；日常定时更新运行单元测试、数据检查与部署验证。
+- 收集程序只用 Python 3.12 标准库。首次发布、手动执行和代码变更时，在 GitHub 上额外运行 GitHub 环境自带 Chrome 的桌面与手机界面测试；日常定时更新运行单元测试、数据检查与部署验证。
 
 ## 收录范围
 
