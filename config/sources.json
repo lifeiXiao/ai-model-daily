@@ -1,0 +1,92 @@
+{
+  "timezone": "Asia/Shanghai",
+  "retention_days": 365,
+  "initial_window_days": 90,
+  "models_per_source": 30,
+  "huggingface": [
+    {
+      "org": "openai",
+      "name": "OpenAI"
+    },
+    {
+      "org": "google",
+      "name": "Google"
+    },
+    {
+      "org": "Qwen",
+      "name": "通义千问"
+    },
+    {
+      "org": "deepseek-ai",
+      "name": "DeepSeek"
+    },
+    {
+      "org": "meta-llama",
+      "name": "Meta"
+    },
+    {
+      "org": "mistralai",
+      "name": "Mistral"
+    },
+    {
+      "org": "microsoft",
+      "name": "Microsoft"
+    },
+    {
+      "org": "nvidia",
+      "name": "NVIDIA"
+    },
+    {
+      "org": "black-forest-labs",
+      "name": "Black Forest Labs"
+    },
+    {
+      "org": "stabilityai",
+      "name": "Stability AI"
+    },
+    {
+      "org": "MoonshotAI",
+      "name": "月之暗面"
+    },
+    {
+      "org": "MiniMaxAI",
+      "name": "MiniMax"
+    },
+    {
+      "org": "zai-org",
+      "name": "智谱"
+    },
+    {
+      "org": "BAAI",
+      "name": "北京智源"
+    },
+    {
+      "org": "Tencent-Hunyuan",
+      "name": "腾讯混元"
+    },
+    {
+      "org": "HuggingFaceTB",
+      "name": "Hugging Face"
+    }
+  ],
+  "announcements": [
+    {
+      "id": "openai-news",
+      "name": "OpenAI",
+      "kind": "rss",
+      "url": "https://openai.com/news/rss.xml"
+    },
+    {
+      "id": "deepmind-news",
+      "name": "Google DeepMind",
+      "kind": "rss",
+      "url": "https://deepmind.google/blog/rss.xml"
+    },
+    {
+      "id": "anthropic-news",
+      "name": "Anthropic",
+      "kind": "html",
+      "url": "https://www.anthropic.com/news"
+    }
+  ]
+}

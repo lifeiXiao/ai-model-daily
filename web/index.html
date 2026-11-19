@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <meta name="theme-color" content="#0b1120">
+  <meta name="description" content="每日追踪官方 AI 模型仓库与厂商动态，浏览模型功能、任务类型和原始来源。">
+  <title>每日模型雷达 · AI Model Daily</title>
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./style.css">
+  <script defer src="./app.js"></script>
+</head>
+<body>
+  <a class="skip" href="#catalog">跳到模型列表</a>
+  <header class="topbar wrap">
+    <a class="brand" href="./"><span class="brand-icon" aria-hidden="true">◉</span><span>每日模型雷达<small>AI MODEL DAILY</small></span></a>
+    <nav aria-label="主导航">
+      <a href="#catalog">探索模型</a><a href="#sources">数据来源</a>
+      <a href="https://github.com/lifeiXiao/ai-model-daily" target="_blank" rel="noopener noreferrer">GitHub</a>
+    </nav>
+  </header>
+  <main class="wrap">
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="hero-copy">
+        <p class="eyebrow">THE DAILY SIGNAL</p>
+        <h1 id="hero-title">AI 的新进展，<br><span>每天看得见。</span></h1>
+        <p class="lead">从官方发布中发现模型，<br class="mobile-break">用任务与功能找到值得关注的下一步。</p>
+        <div class="update-line"><span class="dot" id="health-dot"></span><span id="updated">正在读取最新日报…</span></div>
+      </div>
+      <aside class="briefing" aria-label="本期概览">
+        <div class="briefing-head"><span>本期概览</span><time id="brief-date">—</time></div>
+        <div class="stats">
+          <div><strong id="stat-models">—</strong><span>模型仓库</span></div>
+          <div><strong id="stat-news">—</strong><span>官方动态</span></div>
+          <div><strong id="stat-new">—</strong><span id="new-label">本日新发现</span></div>
+        </div>
+        <div class="briefing-foot"><span id="health">正在检查来源</span><span>每天 08:17 · 北京时间</span></div>
+      </aside>
+    </section>
+    <div id="notice" class="notice" role="status" hidden></div>
+    <section class="spotlight" id="spotlight" aria-label="最新官方动态" hidden>
+      <div class="spotlight-label"><span class="eyebrow">OFFICIAL SIGNAL</span><span>最新官方动态</span></div>
+      <div><p id="spotlight-meta" class="muted"></p><h2 id="spotlight-title"></h2></div>
+      <a id="spotlight-link" class="outline-link" target="_blank" rel="noopener noreferrer">阅读原文</a>
+    </section>
+    <section id="catalog" aria-labelledby="catalog-title">
+      <div class="section-head"><div><p class="eyebrow">EXPLORE THE FRONTIER</p><h2 id="catalog-title">模型与动态</h2></div><p>让每一条信息都有出处</p></div>
+      <div class="tabs" role="tablist" aria-label="内容类型">
+        <button role="tab" aria-selected="true" aria-controls="results" id="tab-model" data-kind="model">模型仓库 <span id="count-model">0</span></button>
+        <button role="tab" aria-selected="false" aria-controls="results" id="tab-announcement" data-kind="announcement" tabindex="-1">官方动态 <span id="count-announcement">0</span></button>
+      </div>
+      <div class="filters">
+        <label class="search"><span class="sr-only">搜索模型或功能</span><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="搜索模型、机构或功能…" autocomplete="off"></label>
+        <label><span class="sr-only">机构筛选</span><select id="provider"><option value="">全部机构</option></select></label>
+        <label><span class="sr-only">任务筛选</span><select id="task"><option value="">全部任务</option></select></label>
+        <label><span class="sr-only">时间范围</span><select id="period"><option value="7">最近 7 天</option><option value="30">最近 30 天</option><option value="90" selected>最近 90 天</option><option value="365">最近一年</option></select></label>
+      </div>
+      <div class="result-meta"><p id="result-count" role="status" aria-live="polite">正在加载…</p><button id="reset" class="text-button">重置筛选</button></div>
+      <p id="kind-note" class="kind-note">日期为模型仓库创建时间；功能说明来自平台任务标签，详细规格与使用许可请查看官方模型卡。</p>
+      <div id="results" class="cards" role="tabpanel" aria-labelledby="tab-model"></div>
+      <div id="empty" class="empty" hidden><h3>没有符合条件的内容</h3><p>试试其他关键词，或扩大时间范围。</p><button id="empty-reset" class="outline-link">查看全部内容</button></div>
+      <button id="more" class="more" hidden>加载更多</button>
+      <noscript><p class="notice">请启用 JavaScript 浏览筛选列表，或直接下载 <a href="./data/catalog.json">模型数据 JSON</a>。</p></noscript>
+    </section>
+    <section id="sources" class="sources-section" aria-labelledby="sources-title">
+      <div class="section-head"><div><p class="eyebrow">TRACEABLE BY DESIGN</p><h2 id="sources-title">从哪里来，清清楚楚</h2></div><a href="./data/catalog.json">下载数据 JSON</a></div>
+      <p class="source-intro">追踪指定机构在 Hugging Face 上的最新模型仓库，以及 OpenAI、Google DeepMind、Anthropic 的模型相关公告。官方动态可能涉及已有模型的功能更新，并非每条都是新模型发布。</p>
+      <div id="source-list" class="source-grid"></div>
+      <details class="method"><summary>收录规则与更新说明</summary><div>
+        <p>模型库：每个配置账号采集最新 30 个仓库，首次收录最近 90 天的记录，之后保留一年历史。量化版、预览版等独立仓库可能分别出现，因此仓库数量不等于独立模型数量。本项目不是全网模型全集。</p>
+        <p>功能：依据 Hugging Face 的任务类型和明确标签整理中文说明，不运行模型、不生成性能排名。公开的模型仓库可能有申请访问或商业限制；请以模型卡中的许可为准。</p>
+        <p>公告：按标题中的模型相关关键词筛选，保留简短原文节选。日期使用官方公告日期；模型卡的仓库创建日期不代表正式发布日期。</p>
+        <p>更新：由 GitHub 托管的任务每日采集并发布，定时任务可能延迟。单个来源失败时保留历史记录，并在下方标记；若某一类来源全部失败，则不覆盖上次发布内容。首次导入单独记录，不计为“本日新发现”。</p>
+        <p>每日归档位于仓库的 <a href="https://github.com/lifeiXiao/ai-model-daily/tree/main/daily" target="_blank" rel="noopener noreferrer">daily 目录</a>，运行情况可在 <a id="run-link" href="https://github.com/lifeiXiao/ai-model-daily/actions" target="_blank" rel="noopener noreferrer">Actions 日志</a> 中查看。</p>
+      </div></details>
+    </section>
+  </main>
+  <footer class="wrap"><span>每日模型雷达 <span class="footer-divider">/</span> 保持好奇，回到原文。</span><span>公开数据 · 每日归档 · GitHub Pages</span></footer>
+</body>
+</html>
