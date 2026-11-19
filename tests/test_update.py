@@ -20,6 +20,11 @@ class CollectorTests(unittest.TestCase):
         data.update(kwargs)
         return u.model_record(data, self.source)
 
+    def test_gzip_feed_is_decoded(self):
+        import gzip
+        payload = b"<rss><channel/></rss>"
+        self.assertEqual(u.decode_body(gzip.compress(payload)), payload.decode())
+
     def test_creation_is_not_last_modified(self):
         self.assertEqual(self.model()["published_at"], "2026-11-18T12:00:00Z")
         self.assertIsNone(self.model(createdAt=None))

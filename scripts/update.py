@@ -1,6 +1,8 @@
 """Collect public metadata on GitHub-hosted runners; no model inference or downloads."""
 from __future__ import annotations
 import hashlib
+import gzip
+import zlib
 import html
 import json
 import os
@@ -82,15 +84,24 @@ def excerpt(value):
     value = plain(value)
     return " ".join(value.split()[:45])[:300].rstrip()
 
+def decode_body(data, encoding="", max_bytes=8_000_000):
+    if encoding == "gzip" or data.startswith(b"\x1f\x8b"):
+        data = gzip.decompress(data)
+    elif encoding == "deflate":
+        data = zlib.decompress(data)
+    if len(data) > max_bytes:
+        raise ValueError("Decoded response exceeds size limit")
+    return data.decode("utf-8-sig", errors="replace")
+
 def request(url, max_bytes=8_000_000):
     for attempt in range(3):
         try:
-            req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "*/*"})
+            req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "*/*", "Accept-Encoding": "identity"})
             with urllib.request.urlopen(req, timeout=25) as response:
                 data = response.read(max_bytes + 1)
                 if len(data) > max_bytes:
                     raise ValueError("Response exceeds size limit")
-                return data.decode("utf-8", errors="replace")
+                return decode_body(data, response.headers.get("Content-Encoding", "").lower(), max_bytes)
         except (urllib.error.URLError, TimeoutError, OSError) as error:
             if isinstance(error, urllib.error.HTTPError) and error.code not in (429, 500, 502, 503, 504):
                 raise
@@ -165,7 +176,10 @@ def announcement(title, url, date, description, source):
     }
 
 def parse_rss(text, source):
-    root = ET.fromstring(text)
+    try:
+        root = ET.fromstring(text)
+    except ET.ParseError as error:
+        raise ValueError(f"Invalid feed content: {text[:80]!r}") from error
     records = []
     nodes = root.findall(".//item")
     atom = "{http://www.w3.org/2005/Atom}"
