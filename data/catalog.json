@@ -1,9 +1,45 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-24T09:56:50Z",
+  "generated_at": "2026-11-25T08:39:44Z",
   "timezone": "Asia/Shanghai",
-  "run_url": "https://github.com/lifeiXiao/ai-model-daily/actions/runs/45369981545",
+  "run_url": "https://github.com/lifeiXiao/ai-model-daily/actions/runs/45578199417",
   "items": [
+    {
+      "id": "news-ac2f786b30f6d45772c4",
+      "kind": "announcement",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "provider": "OpenAI",
+      "source_id": "openai-news",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "published_at": "2026-11-24T13:00:00Z",
+      "date_label": "公告发布",
+      "task": "官方动态",
+      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "summary_basis": "官方原文节选",
+      "features": [
+        "官方动态"
+      ],
+      "first_seen_at": "2026-11-25T08:39:44Z",
+      "last_seen_at": "2026-11-25T08:39:44Z"
+    },
+    {
+      "id": "news-a3c9028eefd69cfd15ff",
+      "kind": "announcement",
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "provider": "OpenAI",
+      "source_id": "openai-news",
+      "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "published_at": "2026-11-24T00:00:00Z",
+      "date_label": "公告发布",
+      "task": "官方动态",
+      "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+      "summary_basis": "官方原文节选",
+      "features": [
+        "官方动态"
+      ],
+      "first_seen_at": "2026-11-25T08:39:44Z",
+      "last_seen_at": "2026-11-25T08:39:44Z"
+    },
     {
       "id": "news-8145fefb47ff1ca9fa55",
       "kind": "announcement",
@@ -20,7 +56,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-21T07:12:17Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-82fe289fe466dcc1d4f7",
@@ -38,7 +74,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-20T07:20:35Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-fd9bebbff7e692862dad",
@@ -56,7 +92,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-b8db916e8870a3daefd3",
@@ -76,8 +112,8 @@
       ],
       "license": "mit",
       "model_id": "microsoft/Aion-1.0-Instruct-2.3B-ONNX-WebGPU",
-      "downloads": 154,
-      "likes": 13,
+      "downloads": 175,
+      "likes": 14,
       "gated": false,
       "tags": [
         "onnxruntime-genai",
@@ -106,7 +142,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-233a2f8bb264319a4819",
@@ -126,8 +162,8 @@
       ],
       "license": "mit",
       "model_id": "microsoft/Aion-1.0-Instruct-2.3B",
-      "downloads": 4747,
-      "likes": 277,
+      "downloads": 5476,
+      "likes": 298,
       "gated": false,
       "tags": [
         "transformers",
@@ -152,7 +188,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-67952d9a918d2536a7bf",
@@ -170,7 +206,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-68ddb817fe4001c0fc7b",
@@ -188,7 +224,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-8f6af8c44a4a1bfb5de3",
@@ -206,7 +242,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-2e63f4646062ff05508b",
@@ -226,7 +262,7 @@
       ],
       "license": "mit",
       "model_id": "nvidia/MiMo-V2.6-Flash-RL-NVFP4",
-      "downloads": 3,
+      "downloads": 14,
       "likes": 0,
       "gated": false,
       "tags": [
@@ -250,7 +286,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-24T09:56:50Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-5c99c7b75ab692eeb3b7",
@@ -276,7 +312,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-2e8f421d2ee2a3dfd36b",
@@ -294,7 +330,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-5b69826eead48a963c75",
@@ -312,7 +348,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-b9840fd67063a36a400d",
@@ -330,7 +366,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-4922ca6fb0dd92994c34",
@@ -348,7 +384,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-3e3a8021262466cf525f",
@@ -368,7 +404,7 @@
       ],
       "license": "other",
       "model_id": "nvidia/Llama-3.2-1B-Qwen3.8-27B-Draft",
-      "downloads": 602,
+      "downloads": 667,
       "likes": 3,
       "gated": false,
       "tags": [
@@ -389,7 +425,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-507ed484d2bdca10961a",
@@ -409,7 +445,7 @@
       ],
       "license": "other",
       "model_id": "nvidia/Qwen3.5-0.8B-Qwen3.8-27B-Draft",
-      "downloads": 594,
+      "downloads": 699,
       "likes": 6,
       "gated": false,
       "tags": [
@@ -429,7 +465,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-22161c4bad2ae7665db6",
@@ -449,8 +485,8 @@
       ],
       "license": "other",
       "model_id": "nvidia/Qwen3.5-4B-Qwen3.8-27B-Draft",
-      "downloads": 1825,
-      "likes": 270,
+      "downloads": 2157,
+      "likes": 283,
       "gated": false,
       "tags": [
         "Model Optimizer",
@@ -469,7 +505,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-b2e52fc925fc53fa25b0",
@@ -488,7 +524,7 @@
       ],
       "license": "other",
       "model_id": "nvidia/Kimi-K3.1-Pro-NVFP4",
-      "downloads": 2586,
+      "downloads": 2689,
       "likes": 29,
       "gated": false,
       "tags": [
@@ -511,7 +547,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-55cb0588b3e8436e78b2",
@@ -529,7 +565,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-1972a6107d7cc016e042",
@@ -547,7 +583,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-2ae89b47856bdad09ce0",
@@ -567,7 +603,7 @@
       ],
       "license": "other",
       "model_id": "nvidia/Nemotron-Labs-Sigma-distill-spec-3B",
-      "downloads": 596,
+      "downloads": 717,
       "likes": 5,
       "gated": false,
       "tags": [
@@ -587,7 +623,83 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
+    },
+    {
+      "id": "model-c6f26f5078d6394b37ce",
+      "kind": "model",
+      "title": "BioReason-Pro-2-9B-RL",
+      "provider": "NVIDIA",
+      "source_id": "hf-nvidia",
+      "url": "https://huggingface.co/nvidia/BioReason-Pro-2-9B-RL",
+      "published_at": "2026-11-09T20:47:45Z",
+      "date_label": "仓库创建",
+      "task": "其他任务",
+      "summary": "官方尚未提供可识别的任务标签，请查看模型卡了解具体功能。",
+      "summary_basis": "Hugging Face 任务标签的中文说明",
+      "features": [
+        "其他任务"
+      ],
+      "license": "other",
+      "model_id": "nvidia/BioReason-Pro-2-9B-RL",
+      "downloads": 18,
+      "likes": 3,
+      "gated": false,
+      "tags": [
+        "bionemo",
+        "safetensors",
+        "qwen3_5",
+        "biology",
+        "protein-function-prediction",
+        "gene-ontology",
+        "en",
+        "dataset:wanglab/bioreason-pro-v2",
+        "arxiv:2402.03300",
+        "base_model:Qwen/Qwen3.5-9B",
+        "base_model:finetune:Qwen/Qwen3.5-9B",
+        "license:other",
+        "region:us"
+      ],
+      "first_seen_at": "2026-11-25T08:39:44Z",
+      "last_seen_at": "2026-11-25T08:39:44Z"
+    },
+    {
+      "id": "model-786bc3f414a85c8901df",
+      "kind": "model",
+      "title": "BioReason-Pro-2-9B-SFT",
+      "provider": "NVIDIA",
+      "source_id": "hf-nvidia",
+      "url": "https://huggingface.co/nvidia/BioReason-Pro-2-9B-SFT",
+      "published_at": "2026-11-09T20:42:11Z",
+      "date_label": "仓库创建",
+      "task": "其他任务",
+      "summary": "官方尚未提供可识别的任务标签，请查看模型卡了解具体功能。",
+      "summary_basis": "Hugging Face 任务标签的中文说明",
+      "features": [
+        "其他任务"
+      ],
+      "license": "other",
+      "model_id": "nvidia/BioReason-Pro-2-9B-SFT",
+      "downloads": 20,
+      "likes": 2,
+      "gated": false,
+      "tags": [
+        "bionemo",
+        "safetensors",
+        "qwen3_5",
+        "biology",
+        "protein-function-prediction",
+        "gene-ontology",
+        "en",
+        "dataset:wanglab/bioreason-pro-v2",
+        "arxiv:2402.03300",
+        "base_model:Qwen/Qwen3.5-9B",
+        "base_model:finetune:Qwen/Qwen3.5-9B",
+        "license:other",
+        "region:us"
+      ],
+      "first_seen_at": "2026-11-25T08:39:44Z",
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-6b6709b612e5913e3ffc",
@@ -605,7 +717,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-952d2516af2e905436ad",
@@ -623,7 +735,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-f39d03ea903522ecd1f4",
@@ -654,7 +766,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-a611692a57ddd2f3f8e0",
@@ -674,7 +786,7 @@
       ],
       "license": "other",
       "model_id": "nvidia/Nemotron-Labs-Sigma-distill-8B-nfe16",
-      "downloads": 367,
+      "downloads": 422,
       "likes": 0,
       "gated": false,
       "tags": [
@@ -694,7 +806,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-41411f32bf88b76d8faf",
@@ -714,167 +826,7 @@
       ],
       "license": "other",
       "model_id": "nvidia/Nemotron-Labs-Sigma-distill-8B-nfe8",
-      "downloads": 432,
-      "likes": 1,
-      "gated": false,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "nemotron_labs_sigma",
-        "feature-extraction",
-        "nvidia",
-        "pytorch",
-        "nemotron-labs",
-        "text-generation",
-        "conversational",
-        "custom_code",
-        "en",
-        "arxiv:2610.02665",
-        "license:other",
-        "region:us"
-      ],
-      "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
-    },
-    {
-      "id": "model-bd4ef97334a6ee601d83",
-      "kind": "model",
-      "title": "Nemotron-Labs-Sigma-distill-8B-nfe4",
-      "provider": "NVIDIA",
-      "source_id": "hf-nvidia",
-      "url": "https://huggingface.co/nvidia/Nemotron-Labs-Sigma-distill-8B-nfe4",
-      "published_at": "2026-11-09T05:47:59Z",
-      "date_label": "仓库创建",
-      "task": "文本生成",
-      "summary": "生成文本、续写内容；具体对话与推理能力见模型卡。",
-      "summary_basis": "Hugging Face 任务标签的中文说明",
-      "features": [
-        "文本生成",
-        "对话"
-      ],
-      "license": "other",
-      "model_id": "nvidia/Nemotron-Labs-Sigma-distill-8B-nfe4",
-      "downloads": 406,
-      "likes": 0,
-      "gated": false,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "nemotron_labs_sigma",
-        "feature-extraction",
-        "nvidia",
-        "pytorch",
-        "nemotron-labs",
-        "text-generation",
-        "conversational",
-        "custom_code",
-        "en",
-        "arxiv:2610.02665",
-        "license:other",
-        "region:us"
-      ],
-      "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
-    },
-    {
-      "id": "model-c5533292ee1561656cbf",
-      "kind": "model",
-      "title": "Nemotron-Labs-Sigma-distill-8B-nfe2",
-      "provider": "NVIDIA",
-      "source_id": "hf-nvidia",
-      "url": "https://huggingface.co/nvidia/Nemotron-Labs-Sigma-distill-8B-nfe2",
-      "published_at": "2026-11-09T02:46:21Z",
-      "date_label": "仓库创建",
-      "task": "文本生成",
-      "summary": "生成文本、续写内容；具体对话与推理能力见模型卡。",
-      "summary_basis": "Hugging Face 任务标签的中文说明",
-      "features": [
-        "文本生成",
-        "对话"
-      ],
-      "license": "other",
-      "model_id": "nvidia/Nemotron-Labs-Sigma-distill-8B-nfe2",
-      "downloads": 395,
-      "likes": 0,
-      "gated": false,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "nemotron_labs_sigma",
-        "feature-extraction",
-        "nvidia",
-        "pytorch",
-        "nemotron-labs",
-        "text-generation",
-        "conversational",
-        "custom_code",
-        "en",
-        "arxiv:2610.02665",
-        "license:other",
-        "region:us"
-      ],
-      "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
-    },
-    {
-      "id": "model-5d3517eac75d61e877da",
-      "kind": "model",
-      "title": "Nemotron-Labs-Sigma-distill-3B-nfe8",
-      "provider": "NVIDIA",
-      "source_id": "hf-nvidia",
-      "url": "https://huggingface.co/nvidia/Nemotron-Labs-Sigma-distill-3B-nfe8",
-      "published_at": "2026-11-09T02:18:27Z",
-      "date_label": "仓库创建",
-      "task": "文本生成",
-      "summary": "生成文本、续写内容；具体对话与推理能力见模型卡。",
-      "summary_basis": "Hugging Face 任务标签的中文说明",
-      "features": [
-        "文本生成",
-        "对话"
-      ],
-      "license": "other",
-      "model_id": "nvidia/Nemotron-Labs-Sigma-distill-3B-nfe8",
-      "downloads": 371,
-      "likes": 0,
-      "gated": false,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "nemotron_labs_sigma",
-        "feature-extraction",
-        "nvidia",
-        "pytorch",
-        "nemotron-labs",
-        "text-generation",
-        "conversational",
-        "custom_code",
-        "en",
-        "arxiv:2610.02665",
-        "license:other",
-        "region:us"
-      ],
-      "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
-    },
-    {
-      "id": "model-776b531ab4e92dc87ef2",
-      "kind": "model",
-      "title": "Nemotron-Labs-Sigma-distill-spec-8B",
-      "provider": "NVIDIA",
-      "source_id": "hf-nvidia",
-      "url": "https://huggingface.co/nvidia/Nemotron-Labs-Sigma-distill-spec-8B",
-      "published_at": "2026-11-09T01:40:38Z",
-      "date_label": "仓库创建",
-      "task": "文本生成",
-      "summary": "生成文本、续写内容；具体对话与推理能力见模型卡。",
-      "summary_basis": "Hugging Face 任务标签的中文说明",
-      "features": [
-        "文本生成",
-        "对话"
-      ],
-      "license": "other",
-      "model_id": "nvidia/Nemotron-Labs-Sigma-distill-spec-8B",
-      "downloads": 469,
+      "downloads": 526,
       "likes": 2,
       "gated": false,
       "tags": [
@@ -894,7 +846,167 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
+    },
+    {
+      "id": "model-bd4ef97334a6ee601d83",
+      "kind": "model",
+      "title": "Nemotron-Labs-Sigma-distill-8B-nfe4",
+      "provider": "NVIDIA",
+      "source_id": "hf-nvidia",
+      "url": "https://huggingface.co/nvidia/Nemotron-Labs-Sigma-distill-8B-nfe4",
+      "published_at": "2026-11-09T05:47:59Z",
+      "date_label": "仓库创建",
+      "task": "文本生成",
+      "summary": "生成文本、续写内容；具体对话与推理能力见模型卡。",
+      "summary_basis": "Hugging Face 任务标签的中文说明",
+      "features": [
+        "文本生成",
+        "对话"
+      ],
+      "license": "other",
+      "model_id": "nvidia/Nemotron-Labs-Sigma-distill-8B-nfe4",
+      "downloads": 463,
+      "likes": 0,
+      "gated": false,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "nemotron_labs_sigma",
+        "feature-extraction",
+        "nvidia",
+        "pytorch",
+        "nemotron-labs",
+        "text-generation",
+        "conversational",
+        "custom_code",
+        "en",
+        "arxiv:2610.02665",
+        "license:other",
+        "region:us"
+      ],
+      "first_seen_at": "2026-11-19T01:58:37Z",
+      "last_seen_at": "2026-11-25T08:39:44Z"
+    },
+    {
+      "id": "model-c5533292ee1561656cbf",
+      "kind": "model",
+      "title": "Nemotron-Labs-Sigma-distill-8B-nfe2",
+      "provider": "NVIDIA",
+      "source_id": "hf-nvidia",
+      "url": "https://huggingface.co/nvidia/Nemotron-Labs-Sigma-distill-8B-nfe2",
+      "published_at": "2026-11-09T02:46:21Z",
+      "date_label": "仓库创建",
+      "task": "文本生成",
+      "summary": "生成文本、续写内容；具体对话与推理能力见模型卡。",
+      "summary_basis": "Hugging Face 任务标签的中文说明",
+      "features": [
+        "文本生成",
+        "对话"
+      ],
+      "license": "other",
+      "model_id": "nvidia/Nemotron-Labs-Sigma-distill-8B-nfe2",
+      "downloads": 448,
+      "likes": 0,
+      "gated": false,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "nemotron_labs_sigma",
+        "feature-extraction",
+        "nvidia",
+        "pytorch",
+        "nemotron-labs",
+        "text-generation",
+        "conversational",
+        "custom_code",
+        "en",
+        "arxiv:2610.02665",
+        "license:other",
+        "region:us"
+      ],
+      "first_seen_at": "2026-11-19T01:58:37Z",
+      "last_seen_at": "2026-11-25T08:39:44Z"
+    },
+    {
+      "id": "model-5d3517eac75d61e877da",
+      "kind": "model",
+      "title": "Nemotron-Labs-Sigma-distill-3B-nfe8",
+      "provider": "NVIDIA",
+      "source_id": "hf-nvidia",
+      "url": "https://huggingface.co/nvidia/Nemotron-Labs-Sigma-distill-3B-nfe8",
+      "published_at": "2026-11-09T02:18:27Z",
+      "date_label": "仓库创建",
+      "task": "文本生成",
+      "summary": "生成文本、续写内容；具体对话与推理能力见模型卡。",
+      "summary_basis": "Hugging Face 任务标签的中文说明",
+      "features": [
+        "文本生成",
+        "对话"
+      ],
+      "license": "other",
+      "model_id": "nvidia/Nemotron-Labs-Sigma-distill-3B-nfe8",
+      "downloads": 431,
+      "likes": 0,
+      "gated": false,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "nemotron_labs_sigma",
+        "feature-extraction",
+        "nvidia",
+        "pytorch",
+        "nemotron-labs",
+        "text-generation",
+        "conversational",
+        "custom_code",
+        "en",
+        "arxiv:2610.02665",
+        "license:other",
+        "region:us"
+      ],
+      "first_seen_at": "2026-11-19T01:58:37Z",
+      "last_seen_at": "2026-11-25T08:39:44Z"
+    },
+    {
+      "id": "model-776b531ab4e92dc87ef2",
+      "kind": "model",
+      "title": "Nemotron-Labs-Sigma-distill-spec-8B",
+      "provider": "NVIDIA",
+      "source_id": "hf-nvidia",
+      "url": "https://huggingface.co/nvidia/Nemotron-Labs-Sigma-distill-spec-8B",
+      "published_at": "2026-11-09T01:40:38Z",
+      "date_label": "仓库创建",
+      "task": "文本生成",
+      "summary": "生成文本、续写内容；具体对话与推理能力见模型卡。",
+      "summary_basis": "Hugging Face 任务标签的中文说明",
+      "features": [
+        "文本生成",
+        "对话"
+      ],
+      "license": "other",
+      "model_id": "nvidia/Nemotron-Labs-Sigma-distill-spec-8B",
+      "downloads": 584,
+      "likes": 2,
+      "gated": false,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "nemotron_labs_sigma",
+        "feature-extraction",
+        "nvidia",
+        "pytorch",
+        "nemotron-labs",
+        "text-generation",
+        "conversational",
+        "custom_code",
+        "en",
+        "arxiv:2610.02665",
+        "license:other",
+        "region:us"
+      ],
+      "first_seen_at": "2026-11-19T01:58:37Z",
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-09aac224d59c53596f22",
@@ -914,7 +1026,7 @@
       ],
       "license": "other",
       "model_id": "nvidia/Nemotron-Labs-Sigma-distill-3B-nfe16",
-      "downloads": 344,
+      "downloads": 397,
       "likes": 0,
       "gated": false,
       "tags": [
@@ -934,7 +1046,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-8e68ef2608e370a897a8",
@@ -954,7 +1066,7 @@
       ],
       "license": "other",
       "model_id": "nvidia/Nemotron-Labs-Sigma-distill-3B-nfe4",
-      "downloads": 377,
+      "downloads": 437,
       "likes": 0,
       "gated": false,
       "tags": [
@@ -974,7 +1086,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-6f0609f58aad628a76e5",
@@ -994,7 +1106,7 @@
       ],
       "license": "other",
       "model_id": "nvidia/Nemotron-Labs-Sigma-distill-3B-nfe2",
-      "downloads": 346,
+      "downloads": 401,
       "likes": 0,
       "gated": false,
       "tags": [
@@ -1014,7 +1126,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-dc8f89c27de7cda97c7a",
@@ -1034,8 +1146,8 @@
       ],
       "license": "other",
       "model_id": "MiniMaxAI/MiniMax-H3-Image-PE",
-      "downloads": 5022,
-      "likes": 116,
+      "downloads": 5287,
+      "likes": 118,
       "gated": false,
       "tags": [
         "transformers",
@@ -1059,7 +1171,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-bbd492caba72ca544b8b",
@@ -1077,7 +1189,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-1750855042e8ceec185e",
@@ -1095,7 +1207,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-3f022be7cc3478f336d5",
@@ -1114,7 +1226,7 @@
       ],
       "license": "other",
       "model_id": "nvidia/MetricTrail",
-      "downloads": 754,
+      "downloads": 788,
       "likes": 27,
       "gated": false,
       "tags": [
@@ -1122,7 +1234,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-981785a01550309d0739",
@@ -1140,7 +1252,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-6275f03b1521448a8e9d",
@@ -1159,8 +1271,8 @@
       ],
       "license": "未标注",
       "model_id": "BAAI/PingPongRealWorldRL",
-      "downloads": 546,
-      "likes": 13,
+      "downloads": 548,
+      "likes": 14,
       "gated": false,
       "tags": [
         "onnx",
@@ -1172,7 +1284,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-a4adc6939f36ef75a489",
@@ -1191,8 +1303,8 @@
       ],
       "license": "other",
       "model_id": "MiniMaxAI/MiniMax-H3-Image",
-      "downloads": 972272,
-      "likes": 2498,
+      "downloads": 1003202,
+      "likes": 2530,
       "gated": false,
       "tags": [
         "minimax-h3",
@@ -1209,7 +1321,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-cbc991fefea228a9aa18",
@@ -1229,8 +1341,8 @@
       ],
       "license": "other",
       "model_id": "moonshotai/Kimi-K3.1-Pro",
-      "downloads": 73560,
-      "likes": 2446,
+      "downloads": 79210,
+      "likes": 2467,
       "gated": false,
       "tags": [
         "transformers",
@@ -1248,7 +1360,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-4094d4340f9e66f9e2fc",
@@ -1266,7 +1378,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-0c94298ebe0067b33809",
@@ -1285,8 +1397,8 @@
       ],
       "license": "mit",
       "model_id": "nvidia/DeepSeek-V4.1-Flash-1017-NVFP4",
-      "downloads": 80409,
-      "likes": 193,
+      "downloads": 82528,
+      "likes": 195,
       "gated": false,
       "tags": [
         "Model Optimizer",
@@ -1307,7 +1419,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-1beacae038a8bdb2a70f",
@@ -1327,8 +1439,8 @@
       ],
       "license": "apache-2.0",
       "model_id": "microsoft/Mage-VL-Cowork",
-      "downloads": 6128,
-      "likes": 232,
+      "downloads": 6313,
+      "likes": 233,
       "gated": false,
       "tags": [
         "transformers",
@@ -1358,7 +1470,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-9349f418e7bc7ab45091",
@@ -1376,7 +1488,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-0f01adb2acab0a67ba71",
@@ -1394,7 +1506,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-3e32bae570ff21ee59e5",
@@ -1412,7 +1524,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-78549305636d1327b815",
@@ -1442,7 +1554,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-20T07:20:35Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-173b3c291ba0a37521b3",
@@ -1461,7 +1573,7 @@
       ],
       "license": "other",
       "model_id": "nvidia/Metatron-v1",
-      "downloads": 1687,
+      "downloads": 1720,
       "likes": 18,
       "gated": false,
       "tags": [
@@ -1476,7 +1588,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-1e3ebf94e41ebe19793b",
@@ -1494,7 +1606,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-550f4d88633d42452645",
@@ -1512,7 +1624,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-a9c488820a62ac4adcd9",
@@ -1530,7 +1642,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-87a9e9f275547c6b3a82",
@@ -1550,8 +1662,8 @@
       ],
       "license": "other",
       "model_id": "nvidia/Qwen3.8-27B-NVFP4-QAD",
-      "downloads": 2461,
-      "likes": 80,
+      "downloads": 2782,
+      "likes": 84,
       "gated": false,
       "tags": [
         "Model Optimizer",
@@ -1574,7 +1686,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-35e334c198740f741663",
@@ -1592,7 +1704,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-35b57edcf87280809ccc",
@@ -1624,7 +1736,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-801f70709f333dc52bf0",
@@ -1656,7 +1768,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-7d972df501d01ba1f64a",
@@ -1674,7 +1786,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-8856fea1221d5578fd3f",
@@ -1708,7 +1820,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-89aa6cb4d1490af3c945",
@@ -1742,7 +1854,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-f8c156dba7886826388b",
@@ -1760,7 +1872,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-3b5a2a6a27ab5490f80a",
@@ -1778,7 +1890,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-2df8e8b1dc58e9f963ec",
@@ -1797,7 +1909,7 @@
       ],
       "license": "other",
       "model_id": "nvidia/InternVideo2-CLIP-anomaly-detection",
-      "downloads": 187,
+      "downloads": 195,
       "likes": 23,
       "gated": false,
       "tags": [
@@ -1817,7 +1929,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-a2a216f5111850ffb297",
@@ -1837,7 +1949,7 @@
       ],
       "license": "other",
       "model_id": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B-GGUF",
-      "downloads": 32569,
+      "downloads": 33268,
       "likes": 3,
       "gated": false,
       "tags": [
@@ -1873,7 +1985,7 @@
         "hr"
       ],
       "first_seen_at": "2026-11-21T07:12:17Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-95dedf578de78f3ec264",
@@ -1891,7 +2003,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-aa8847d44cbae3328f3c",
@@ -1909,7 +2021,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-b5b373a390642ffcdac5",
@@ -1928,7 +2040,7 @@
       ],
       "license": "other",
       "model_id": "nvidia/cosmos3-nano-libero10-sdg-export-S5_2_s43",
-      "downloads": 249,
+      "downloads": 250,
       "likes": 0,
       "gated": false,
       "tags": [
@@ -1945,7 +2057,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-ef4674a5a6871026b735",
@@ -1964,7 +2076,7 @@
       ],
       "license": "other",
       "model_id": "nvidia/Cosmos3-H-Embodied-Nano",
-      "downloads": 1159,
+      "downloads": 1176,
       "likes": 4,
       "gated": false,
       "tags": [
@@ -1989,7 +2101,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-be1b1a624075d957ed2a",
@@ -2008,7 +2120,7 @@
       ],
       "license": "other",
       "model_id": "nvidia/Cosmos3-H-Dreams",
-      "downloads": 4789,
+      "downloads": 4963,
       "likes": 11,
       "gated": false,
       "tags": [
@@ -2035,7 +2147,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-6f031a8de216061e1184",
@@ -2054,7 +2166,7 @@
       ],
       "license": "other",
       "model_id": "nvidia/cosmos3-nano-libero10-sdg-export-D2_s43",
-      "downloads": 236,
+      "downloads": 241,
       "likes": 0,
       "gated": false,
       "tags": [
@@ -2071,7 +2183,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-fa0e2d80a3fd391fb9ab",
@@ -2090,7 +2202,7 @@
       ],
       "license": "other",
       "model_id": "nvidia/cosmos3-nano-libero10-sdg-export-S2_s43",
-      "downloads": 244,
+      "downloads": 249,
       "likes": 1,
       "gated": false,
       "tags": [
@@ -2107,7 +2219,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-886f182ab72a60fa788a",
@@ -2127,8 +2239,8 @@
       ],
       "license": "other",
       "model_id": "MiniMaxAI/MiniMax-M3.1-Flash",
-      "downloads": 150214,
-      "likes": 615,
+      "downloads": 150451,
+      "likes": 617,
       "gated": false,
       "tags": [
         "transformers",
@@ -2151,7 +2263,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-15efb2abf693c883c11f",
@@ -2171,8 +2283,8 @@
       ],
       "license": "mit",
       "model_id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "downloads": 524232,
-      "likes": 6632,
+      "downloads": 536179,
+      "likes": 6666,
       "gated": false,
       "tags": [
         "transformers",
@@ -2190,7 +2302,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-6278024a277ff7ee891d",
@@ -2210,7 +2322,7 @@
       ],
       "license": "mit",
       "model_id": "microsoft/Sentiment-Analysis-7B",
-      "downloads": 2850,
+      "downloads": 2831,
       "likes": 38,
       "gated": false,
       "tags": [
@@ -2231,7 +2343,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-823231396490005d3913",
@@ -2429,7 +2541,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-1b995b5f222a8bb5b4de",
@@ -2486,7 +2598,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-83d004c19c7e073fac46",
@@ -2505,7 +2617,7 @@
       ],
       "license": "other",
       "model_id": "mistralai/Mistral-Large-4-1T-A52B-NVFP4",
-      "downloads": 1899,
+      "downloads": 1969,
       "likes": 78,
       "gated": false,
       "tags": [
@@ -2541,7 +2653,7 @@
         "cs"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-512c4007b9fab84ae810",
@@ -2561,7 +2673,7 @@
       ],
       "license": "apache-2.0",
       "model_id": "black-forest-labs/flux-3-image-klein-pup",
-      "downloads": 27484,
+      "downloads": 26039,
       "likes": 85,
       "gated": false,
       "tags": [
@@ -2585,7 +2697,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-a0d8ce0c553e58527ccd",
@@ -2605,7 +2717,7 @@
       ],
       "license": "mit",
       "model_id": "microsoft/UserRepGen-4B",
-      "downloads": 1781,
+      "downloads": 1729,
       "likes": 31,
       "gated": false,
       "tags": [
@@ -2627,7 +2739,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-054cf7d0684c49329754",
@@ -2646,7 +2758,7 @@
       ],
       "license": "other",
       "model_id": "mistralai/Timestral-123M",
-      "downloads": 8474,
+      "downloads": 8462,
       "likes": 47,
       "gated": false,
       "tags": [
@@ -2661,7 +2773,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-e0279cdb45235dc2710d",
@@ -2680,7 +2792,7 @@
       ],
       "license": "other",
       "model_id": "mistralai/Timestral-28M",
-      "downloads": 18485,
+      "downloads": 18850,
       "likes": 57,
       "gated": false,
       "tags": [
@@ -2695,7 +2807,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-b877d686003eadaad76f",
@@ -2714,7 +2826,7 @@
       ],
       "license": "other",
       "model_id": "mistralai/Timestral-5M",
-      "downloads": 11565,
+      "downloads": 11498,
       "likes": 95,
       "gated": false,
       "tags": [
@@ -2729,7 +2841,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-931794f139c493ebfc3e",
@@ -2748,8 +2860,8 @@
       ],
       "license": "other",
       "model_id": "black-forest-labs/flux-3-image-klein-comfy",
-      "downloads": 900080,
-      "likes": 4498,
+      "downloads": 892024,
+      "likes": 4558,
       "gated": true,
       "tags": [
         "diffusion-single-file",
@@ -2767,7 +2879,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-57c3309db5bedcdec4e0",
@@ -2785,7 +2897,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-3d6955f4888d7c8a7c6c",
@@ -2804,8 +2916,8 @@
       ],
       "license": "other",
       "model_id": "mistralai/Timestral-209M",
-      "downloads": 28847,
-      "likes": 506,
+      "downloads": 28686,
+      "likes": 508,
       "gated": false,
       "tags": [
         "timestral",
@@ -2819,7 +2931,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-b76b11a1199f73b7027f",
@@ -2837,7 +2949,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-1dc99b611b2499a3b881",
@@ -2855,7 +2967,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-d96a2391b623b2cb26cc",
@@ -2873,7 +2985,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-4e31b829ae6885914a65",
@@ -2891,7 +3003,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-b0261656d5ce3fd7da6d",
@@ -2910,8 +3022,8 @@
       ],
       "license": "other",
       "model_id": "black-forest-labs/flux-3-image-klein",
-      "downloads": 127334,
-      "likes": 1091,
+      "downloads": 127367,
+      "likes": 1111,
       "gated": true,
       "tags": [
         "diffusers",
@@ -2927,7 +3039,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-d78030ae05f429730752",
@@ -2946,8 +3058,8 @@
       ],
       "license": "other",
       "model_id": "black-forest-labs/flux-3-image-klein-base",
-      "downloads": 47819,
-      "likes": 259,
+      "downloads": 47679,
+      "likes": 262,
       "gated": true,
       "tags": [
         "diffusers",
@@ -2963,7 +3075,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-9bf93d58cc35db9987f8",
@@ -2981,7 +3093,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-e1ff7c757662ba7266e4",
@@ -3001,7 +3113,7 @@
       "license": "other",
       "model_id": "Qwen/Qwen-Image-2.1-Turbo",
       "downloads": 28855,
-      "likes": 1159,
+      "likes": 1162,
       "gated": false,
       "tags": [
         "diffusers",
@@ -3017,7 +3129,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-db7b9e6fe248e3146f87",
@@ -3035,7 +3147,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-45d6a2b79938283a07ca",
@@ -3053,7 +3165,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-b4e5f9455a2d682160d4",
@@ -3108,7 +3220,7 @@
         "ur"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-51d91f5a18150021991f",
@@ -3160,7 +3272,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-a097ef0d441a7216b7cd",
@@ -3178,7 +3290,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-2ee55c894d54d6ef378c",
@@ -3196,7 +3308,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-c38af6e5cae43e23a64c",
@@ -3214,7 +3326,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-88f2d573d93ffbb39407",
@@ -3257,7 +3369,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-c08402b8f22a4b159df3",
@@ -3275,7 +3387,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-b49099cde7e97e60f531",
@@ -3293,7 +3405,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-ae0c5f88801704ca163d",
@@ -3314,7 +3426,7 @@
       "license": "other",
       "model_id": "mistralai/Mistral-Large-4-1T-A52B",
       "downloads": 22138,
-      "likes": 1682,
+      "likes": 1684,
       "gated": false,
       "tags": [
         "transformers",
@@ -3349,7 +3461,7 @@
         "hi"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-90249c2a3882c6d31b88",
@@ -3367,7 +3479,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-d5d80c67e0d83f57891d",
@@ -3408,7 +3520,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-59c5a0a28a9341ff30ff",
@@ -3451,7 +3563,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-d6b9f5e651b1891e950e",
@@ -3469,7 +3581,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-b610ab6c1b04aa082850",
@@ -3512,7 +3624,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-8e911561fd4aa7c91edb",
@@ -3555,7 +3667,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-eb674100bb687fff7643",
@@ -3573,7 +3685,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-833e9419a34f8836dc9d",
@@ -3591,7 +3703,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-9de028fbe46cac8b155a",
@@ -3609,7 +3721,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-6add3dd62456569f1942",
@@ -3627,7 +3739,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-721de6922a1a6b9fd6bd",
@@ -3645,7 +3757,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-52b80abd4e046c041ffb",
@@ -3663,7 +3775,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-0765deb144589280c16b",
@@ -3681,7 +3793,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-f9027d80e820682e90d7",
@@ -3699,7 +3811,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-73461b3e97af0d93277a",
@@ -3717,7 +3829,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-7b16fdec06bf47b36d0f",
@@ -3757,7 +3869,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-ebac610f65ea2df4bf58",
@@ -3797,7 +3909,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-d535a1c46f294c154901",
@@ -3833,7 +3945,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-abb105ab17a219714cea",
@@ -3861,7 +3973,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-8fe4474fdbb9c4c46a22",
@@ -3879,7 +3991,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-d2871d486c61275aa183",
@@ -3897,7 +4009,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-7137ff5227c5cee74506",
@@ -3929,7 +4041,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-bb1edfef9316e4a763e2",
@@ -3961,7 +4073,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-42cd46e8164b904b18b1",
@@ -3991,7 +4103,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-f3899afd4d6a0a2de479",
@@ -4009,7 +4121,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-d9ae3572bb4b302815ea",
@@ -4041,7 +4153,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-6aae488b1bb65e59bc91",
@@ -4059,7 +4171,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-39b44716f6fa2e5010de",
@@ -4079,7 +4191,7 @@
       "license": "apache-2.0",
       "model_id": "google/embeddinggemma-2",
       "downloads": 602895,
-      "likes": 3459,
+      "likes": 3474,
       "gated": false,
       "tags": [
         "transformers",
@@ -4105,7 +4217,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-950225abc1f2a779ad1d",
@@ -4125,7 +4237,7 @@
       "license": "other",
       "model_id": "Qwen/Qwen-Image-2.1",
       "downloads": 283801,
-      "likes": 3720,
+      "likes": 3724,
       "gated": false,
       "tags": [
         "diffusers",
@@ -4141,7 +4253,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-968c32634dc2a1cb83f0",
@@ -4159,7 +4271,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-39842fa0b34b37cbe3f7",
@@ -4177,7 +4289,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-9031c2daab92080fb6cd",
@@ -4204,7 +4316,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-216fa1827dc2f0718583",
@@ -4225,7 +4337,7 @@
       "license": "mit",
       "model_id": "deepseek-ai/DeepSeek-V4.1-Flash",
       "downloads": 1141846,
-      "likes": 5066,
+      "likes": 5072,
       "gated": false,
       "tags": [
         "transformers",
@@ -4244,7 +4356,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-333ccaae81484d3a4e17",
@@ -4262,7 +4374,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-503e9c2326e78f3e5469",
@@ -4280,7 +4392,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-a1b72811dd254b5043b5",
@@ -4298,7 +4410,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-51956214708ceb67e1aa",
@@ -4332,7 +4444,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-d5ea4bcadd66b1af0f56",
@@ -4350,7 +4462,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-9281d6906e8350b6fb5c",
@@ -4368,7 +4480,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-325e9dcd840a97e90ffb",
@@ -4386,7 +4498,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-039a4975e102cb538c36",
@@ -4404,7 +4516,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-2eab7e3ba0309d309b6d",
@@ -4447,7 +4559,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-aadb425fd0f6592a58e2",
@@ -4484,7 +4596,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-39210f987919e80e66f6",
@@ -4502,7 +4614,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-355be2cf6d2d139c093a",
@@ -4520,7 +4632,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-3a2b25b1f0e87b8fd63f",
@@ -4567,7 +4679,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-672099df3bd94af4a316",
@@ -4614,7 +4726,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-6bf5b05134dd23a67198",
@@ -4632,7 +4744,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-45f1a2bc634f94f466eb",
@@ -4668,7 +4780,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-8e4f6a39ef054a557856",
@@ -4688,7 +4800,7 @@
       "license": "mit",
       "model_id": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
       "downloads": 28132,
-      "likes": 971,
+      "likes": 972,
       "gated": false,
       "tags": [
         "transformers",
@@ -4704,7 +4816,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-676d31d0be418df367c9",
@@ -4732,7 +4844,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-90ba20dc32b53edf52ab",
@@ -4750,7 +4862,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-f22f395a23a9e70d1fce",
@@ -4770,14 +4882,14 @@
       "license": "mit",
       "model_id": "microsoft/bioemu2",
       "downloads": 0,
-      "likes": 27,
+      "likes": 28,
       "gated": false,
       "tags": [
         "license:mit",
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-e330969ed4c1fc7abe64",
@@ -4819,7 +4931,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-5f4725b7450054caa41f",
@@ -4852,7 +4964,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-0d1b15a4f3632707f9a8",
@@ -4880,7 +4992,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-927276fb2c3cb5642c3b",
@@ -4908,7 +5020,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-f9ed20129fd3bb7a1652",
@@ -4936,7 +5048,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-737331cbffc8a092b5af",
@@ -4954,7 +5066,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-76c95cd852987031f9d7",
@@ -4972,7 +5084,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-03cdd2d2ff6ac2dfcefb",
@@ -4993,7 +5105,7 @@
       "license": "mit",
       "model_id": "zai-org/GLM-5.3-Flash-BF16",
       "downloads": 18152,
-      "likes": 91,
+      "likes": 92,
       "gated": false,
       "tags": [
         "transformers",
@@ -5009,7 +5121,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-c586208bbac6e9d94c02",
@@ -5046,7 +5158,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-bc20d9347385584434d0",
@@ -5067,7 +5179,7 @@
       "license": "mit",
       "model_id": "zai-org/GLM-5.3-Flash",
       "downloads": 6309038,
-      "likes": 3320,
+      "likes": 3326,
       "gated": false,
       "tags": [
         "transformers",
@@ -5087,7 +5199,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-ab35037a1203d76c6718",
@@ -5108,7 +5220,7 @@
       "license": "other",
       "model_id": "zai-org/GLM-5.3",
       "downloads": 1166959,
-      "likes": 2536,
+      "likes": 2537,
       "gated": false,
       "tags": [
         "transformers",
@@ -5127,7 +5239,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-33eae878317d27dcc038",
@@ -5145,7 +5257,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-9c2fa20c27c537253f46",
@@ -5165,7 +5277,7 @@
       "license": "other",
       "model_id": "google/timesfm-3.0-pytorch",
       "downloads": 369799,
-      "likes": 1039,
+      "likes": 1041,
       "gated": false,
       "tags": [
         "safetensors",
@@ -5180,7 +5292,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-0397780fc41b6dfe9e2d",
@@ -5201,7 +5313,7 @@
       "license": "other",
       "model_id": "Qwen/Qwen3.8-Flash-Next-FP8",
       "downloads": 365040,
-      "likes": 323,
+      "likes": 324,
       "gated": true,
       "tags": [
         "transformers",
@@ -5217,7 +5329,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-c6e4ec527c4bd931d524",
@@ -5238,7 +5350,7 @@
       "license": "other",
       "model_id": "Qwen/Qwen3.8-Flash-Next",
       "downloads": 1890856,
-      "likes": 7484,
+      "likes": 7503,
       "gated": true,
       "tags": [
         "transformers",
@@ -5252,7 +5364,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T01:58:37Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-df8f12302a5b421ac186",
@@ -5270,7 +5382,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-e13a48bc2243ec779b16",
@@ -5308,7 +5420,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-6dffff4e845620adbecc",
@@ -5346,7 +5458,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-99d4aa862c0236174a29",
@@ -5384,7 +5496,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-c9c80b7324f363ccbf01",
@@ -5422,7 +5534,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-145a4aaf9fca24b5ad90",
@@ -5460,7 +5572,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-58c0dc84aba4da6894c8",
@@ -5498,7 +5610,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-2f00013902a29bc1e23d",
@@ -5516,7 +5628,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-9c25f4ae7a186d68926f",
@@ -5534,7 +5646,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-6023038a8912cd08a228",
@@ -5552,7 +5664,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-d8531b3bebbaf6641750",
@@ -5570,7 +5682,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-c0986f6628d189a1ac37",
@@ -5588,7 +5700,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-466b8aaefcdc1f6a109f",
@@ -5609,7 +5721,7 @@
       "license": "apache-2.0",
       "model_id": "Qwen/Qwen3.8-27B-FP8",
       "downloads": 6958705,
-      "likes": 1020,
+      "likes": 1022,
       "gated": false,
       "tags": [
         "transformers",
@@ -5625,7 +5737,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-5cf2c4e8f52daf7a38ff",
@@ -5661,7 +5773,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-5d3aff0aba5d0b8a3f2e",
@@ -5679,7 +5791,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-95f74aeac90a93bb12ce",
@@ -5697,7 +5809,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-29b0e61ec6cd1ed38342",
@@ -5715,7 +5827,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-27eec05942f2438dfcef",
@@ -5736,7 +5848,7 @@
       "license": "other",
       "model_id": "Qwen/Qwen3.8-2.4T-A95B",
       "downloads": 30341,
-      "likes": 1411,
+      "likes": 1413,
       "gated": false,
       "tags": [
         "transformers",
@@ -5750,7 +5862,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-c63a3d2bde631b7f881c",
@@ -5771,7 +5883,7 @@
       "license": "other",
       "model_id": "Qwen/Qwen3.8-2.4T-A95B-FP8",
       "downloads": 10221,
-      "likes": 278,
+      "likes": 279,
       "gated": false,
       "tags": [
         "transformers",
@@ -5787,7 +5899,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-ef71376ad38d916d9a4a",
@@ -5807,7 +5919,7 @@
       "license": "未标注",
       "model_id": "MiniMaxAI/MiniMax-Music3",
       "downloads": 5337,
-      "likes": 1557,
+      "likes": 1561,
       "gated": false,
       "tags": [
         "diffusers",
@@ -5821,7 +5933,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-ebc5821a44c45c7a5386",
@@ -5839,7 +5951,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-b1c9322e571fec76add6",
@@ -5857,7 +5969,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-cd680c8d5b395e742c84",
@@ -5878,7 +5990,7 @@
       "license": "apache-2.0",
       "model_id": "Qwen/Qwen3.8-27B",
       "downloads": 6122057,
-      "likes": 21695,
+      "likes": 21743,
       "gated": false,
       "tags": [
         "transformers",
@@ -5894,7 +6006,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-c99ec862b4e71599bc42",
@@ -5912,7 +6024,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-129511f54188e7df4ed8",
@@ -5930,7 +6042,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-0e854418d0c85b908e72",
@@ -5950,7 +6062,7 @@
       "license": "other",
       "model_id": "google/tabfm-1.1.0-pytorch",
       "downloads": 1313,
-      "likes": 25,
+      "likes": 26,
       "gated": false,
       "tags": [
         "tabfm",
@@ -5966,7 +6078,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-0cb6a5868a346d02db0b",
@@ -5986,7 +6098,7 @@
       "license": "mit",
       "model_id": "deepseek-ai/DeepSeek-V4-Flash-0731",
       "downloads": 1165574,
-      "likes": 4126,
+      "likes": 4124,
       "gated": false,
       "tags": [
         "transformers",
@@ -6004,7 +6116,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-c8c2521853f8de9e5b68",
@@ -6022,7 +6134,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-dca7adc62d79fe1cd1f1",
@@ -6040,7 +6152,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-eb71f165025c2507b7b7",
@@ -6058,7 +6170,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-bba16244a7af23a2584c",
@@ -6076,7 +6188,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-cd6293c0b0e9ed703226",
@@ -6096,7 +6208,7 @@
       "license": "other",
       "model_id": "MiniMaxAI/MiniMax-H3",
       "downloads": 5911687,
-      "likes": 7290,
+      "likes": 7331,
       "gated": false,
       "tags": [
         "minimax-h3",
@@ -6125,7 +6237,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-f47e243f599ca8e1f31c",
@@ -6162,7 +6274,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-2c1c66df43652eb507cc",
@@ -6202,7 +6314,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-4a037a3134848baf76e4",
@@ -6250,7 +6362,7 @@
         "conversational"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-665be8c65c3d99adeba0",
@@ -6296,7 +6408,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-32d655c3b7ec45adc5ca",
@@ -6342,7 +6454,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-389ebd02d2834f48054d",
@@ -6360,7 +6472,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-5e431bbf920c7ba36bf7",
@@ -6378,7 +6490,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-d925d8c91f460a44f070",
@@ -6396,7 +6508,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-a5ab872c216c2f944ec7",
@@ -6414,7 +6526,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-cc9626d450f75bbdbe67",
@@ -6462,7 +6574,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-aa6a9622349cbcabedb6",
@@ -6510,7 +6622,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-969044f63ea6bfa4b049",
@@ -6528,7 +6640,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-0ad8fcdf3fd8be4ef66a",
@@ -6548,7 +6660,7 @@
       "license": "apache-2.0",
       "model_id": "mistralai/Shieldstral-1.0-3B",
       "downloads": 100816,
-      "likes": 321,
+      "likes": 322,
       "gated": false,
       "tags": [
         "vllm",
@@ -6574,7 +6686,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-49857bbbb2f8af4d0586",
@@ -6592,7 +6704,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-7d9f44b64792957030ac",
@@ -6612,7 +6724,7 @@
       "license": "mit",
       "model_id": "microsoft/bitnet-embedding-0.6b",
       "downloads": 863,
-      "likes": 37,
+      "likes": 38,
       "gated": false,
       "tags": [
         "transformers",
@@ -6647,7 +6759,7 @@
         "fy"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-fab7ba1e985307146950",
@@ -6702,7 +6814,7 @@
         "fy"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-0a271f789baeda21cf5e",
@@ -6731,7 +6843,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-b98a594ec40e8f26c796",
@@ -6749,7 +6861,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-e19fbb75eb44457e4dbe",
@@ -6767,7 +6879,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-07aa5a8a45a2217e5772",
@@ -6785,7 +6897,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-ab9ea62ec59ebe1add5f",
@@ -6803,7 +6915,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-2e4d0b94e7d567558f53",
@@ -6843,7 +6955,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-0210e7c1f8999de6bca6",
@@ -6883,7 +6995,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-afd6de4f45baab9ca8b0",
@@ -6913,7 +7025,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-8cc1837ba6892f6f01dc",
@@ -6931,7 +7043,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-05bfb89ac987c5256d9c",
@@ -6972,7 +7084,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-884849979547cf8699e1",
@@ -7008,7 +7120,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-34bf5d2a0042cf477bc4",
@@ -7044,7 +7156,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-3e1ab91a1a5af8a1d5b6",
@@ -7072,7 +7184,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-0a98693ec456a7af4580",
@@ -7100,7 +7212,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-d144b7f0571bf8df01a8",
@@ -7128,7 +7240,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-8294cca705b532b8a2ac",
@@ -7156,7 +7268,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-0b674df6abf377d87cc4",
@@ -7184,7 +7296,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-5fe7953b5a1003773b14",
@@ -7212,7 +7324,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-ca9665519573158bb2ca",
@@ -7240,7 +7352,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-432aafa1bcb7c75a96a8",
@@ -7268,7 +7380,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-0fee2f24ec3121c12c1e",
@@ -7296,7 +7408,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-abebab95861b8cf62fca",
@@ -7324,7 +7436,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-2c468f6ef9897130c657",
@@ -7352,7 +7464,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-60ef9511ac95b380a583",
@@ -7372,7 +7484,7 @@
       "license": "未标注",
       "model_id": "deepseek-ai/dspark_qwen3_4b_block7",
       "downloads": 3231,
-      "likes": 73,
+      "likes": 74,
       "gated": false,
       "tags": [
         "safetensors",
@@ -7380,7 +7492,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-92712f6fcabafcc3a840",
@@ -7415,7 +7527,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-9fea22f0800425431f13",
@@ -7450,7 +7562,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-30f48121decc708b123e",
@@ -7468,7 +7580,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-f50763ffafe20b107c4e",
@@ -7512,7 +7624,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-28d0a9500a14a89ed081",
@@ -7567,7 +7679,7 @@
         "fa"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-f1cb81701415adcecc98",
@@ -7587,7 +7699,7 @@
       "license": "apache-2.0",
       "model_id": "Qwen/Qwen3-ASR-1.7B-hf",
       "downloads": 351045,
-      "likes": 172,
+      "likes": 173,
       "gated": false,
       "tags": [
         "transformers",
@@ -7622,7 +7734,7 @@
         "fa"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-72286a4388d15b6d1666",
@@ -7640,7 +7752,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-072c0c3973379946c848",
@@ -7658,7 +7770,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-18b377bc6c6284e7462b",
@@ -7703,7 +7815,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-e2330fefe7e289875400",
@@ -7721,7 +7833,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-4a975b89e4a0f0fb6925",
@@ -7739,7 +7851,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-f0f3c5d55c4fa69e681b",
@@ -7760,7 +7872,7 @@
       "license": "mit",
       "model_id": "zai-org/GLM-5.2",
       "downloads": 1012703,
-      "likes": 5219,
+      "likes": 5220,
       "gated": false,
       "tags": [
         "transformers",
@@ -7778,7 +7890,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-c6fed4d6c2838f27f62d",
@@ -7819,7 +7931,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-c000018ba1f035750668",
@@ -7837,7 +7949,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-628799ffe62ba69c1856",
@@ -7858,7 +7970,7 @@
       "license": "other",
       "model_id": "moonshotai/Kimi-K3",
       "downloads": 698175,
-      "likes": 12024,
+      "likes": 12025,
       "gated": false,
       "tags": [
         "transformers",
@@ -7876,7 +7988,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-4bdccb69e888246d40e5",
@@ -7913,7 +8025,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-0fda1a1b5a24b71ccbe1",
@@ -7931,7 +8043,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-c17e7186c8901da25fd7",
@@ -7949,7 +8061,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-3d13c9453cfade3d49e3",
@@ -7967,7 +8079,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-9857f10d363c35f1ef14",
@@ -7985,7 +8097,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-6bfe793aa65ebfbb54ec",
@@ -8006,7 +8118,7 @@
       "license": "apache-2.0",
       "model_id": "google/diffusiongemma-26B-A4B-it",
       "downloads": 505915,
-      "likes": 1348,
+      "likes": 1350,
       "gated": false,
       "tags": [
         "transformers",
@@ -8021,7 +8133,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-5b802ccebc3cd95495da",
@@ -8039,7 +8151,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-58b581b20ce32e7be40e",
@@ -8057,7 +8169,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-055219e811071b81f6a5",
@@ -8091,7 +8203,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-49807f98d377abb3ba42",
@@ -8128,7 +8240,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-34c519686be7f2513b88",
@@ -8149,7 +8261,7 @@
       "license": "apache-2.0",
       "model_id": "google/gemma-4-12B-it-qat-q4_0-gguf",
       "downloads": 1190849,
-      "likes": 417,
+      "likes": 421,
       "gated": false,
       "tags": [
         "transformers",
@@ -8164,7 +8276,7 @@
         "conversational"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-ec769d0d45e9eac31dca",
@@ -8200,7 +8312,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-1f184cb3ee0aab215e2a",
@@ -8238,7 +8350,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-0fe46e11fb4528a5c2ff",
@@ -8275,7 +8387,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-4332d05cf9c3a26db7e1",
@@ -8312,7 +8424,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-b78591c62c968df9a421",
@@ -8348,7 +8460,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-032a72a6e2127c3b4bf2",
@@ -8366,7 +8478,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-51b7393f52bc42a6e143",
@@ -8403,7 +8515,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-0866f48417f8b023c54a",
@@ -8440,7 +8552,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-b040c6a9760044cef0af",
@@ -8458,7 +8570,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-ff67d2d373e8648dd219",
@@ -8502,7 +8614,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-3fe8916ce3681f1b6431",
@@ -8544,7 +8656,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-473eced4d0d7fe183ce0",
@@ -8562,7 +8674,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-2c3f421ba8eb3145274a",
@@ -8599,7 +8711,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-ffbb3b42bebf1bdecffc",
@@ -8636,7 +8748,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-4df8e51cae93fe19b42b",
@@ -8654,7 +8766,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-ac8ddf11803fcb4f8e56",
@@ -8692,7 +8804,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-497895a96b567ca90f33",
@@ -8730,7 +8842,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-c69f79d886974e215df7",
@@ -8766,7 +8878,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-50cd2ca8125540e93d89",
@@ -8802,7 +8914,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-880638aa77e3a8eefa34",
@@ -8820,7 +8932,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-42a82a15ae60ddee4da6",
@@ -8854,7 +8966,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-2aa7e747964e595a2906",
@@ -8872,7 +8984,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-53e1da4b0cbcd14ff9f4",
@@ -8890,7 +9002,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-c7affab7451ec44b9067",
@@ -8908,7 +9020,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-ddd2460e2a3b9981672c",
@@ -8926,7 +9038,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-2ec38636c8159d81b8bb",
@@ -8946,7 +9058,7 @@
       "license": "apache-2.0",
       "model_id": "google/gemma-4-12B",
       "downloads": 47993,
-      "likes": 890,
+      "likes": 893,
       "gated": false,
       "tags": [
         "transformers",
@@ -8961,7 +9073,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-fabc6ef2e876397360e6",
@@ -8979,7 +9091,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-c65d978d114ea177570a",
@@ -9024,7 +9136,7 @@
         "deploy:azure"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-25e141fd02c9e561491c",
@@ -9042,7 +9154,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-1c93d6c1c7251e5ff843",
@@ -9060,7 +9172,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-ff2f5294e62288727a56",
@@ -9097,7 +9209,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-6f1209c6c0e07aba0da6",
@@ -9115,7 +9227,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-91307b35ce1086c0f727",
@@ -9133,7 +9245,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-ddd743696c43b3408f1c",
@@ -9151,7 +9263,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-84f9f9c0afd4483dcce2",
@@ -9186,7 +9298,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-e7ecf2313cdc923edf8d",
@@ -9221,7 +9333,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-1bf479c008ac5c4c0e0e",
@@ -9258,7 +9370,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-e16277d443ea9f7d9c24",
@@ -9278,7 +9390,7 @@
       "license": "other",
       "model_id": "stabilityai/stable-audio-3-small-sfx",
       "downloads": 83949,
-      "likes": 451,
+      "likes": 455,
       "gated": true,
       "tags": [
         "stable-audio-3",
@@ -9295,7 +9407,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-a0a6a0306aadc864d007",
@@ -9315,7 +9427,7 @@
       "license": "other",
       "model_id": "stabilityai/stable-audio-3-medium",
       "downloads": 145742,
-      "likes": 669,
+      "likes": 672,
       "gated": true,
       "tags": [
         "stable-audio-3",
@@ -9333,7 +9445,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-8096c1f2f52d4ceef7cb",
@@ -9369,7 +9481,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-0a99ff0de8c3c596f789",
@@ -9404,7 +9516,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-d8b79e0167e2885753e4",
@@ -9439,7 +9551,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-48f9d09d245a6b5acb0f",
@@ -9457,7 +9569,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-e46d28eec38083e80815",
@@ -9475,7 +9587,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-326607290d218cfb7f34",
@@ -9493,7 +9605,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-18f13afbd6901fb3b6c8",
@@ -9511,7 +9623,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-4a3442a5ca8c193564d3",
@@ -9529,7 +9641,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-66312b6309f0b1f18a88",
@@ -9547,7 +9659,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-66be1220771465af8b1a",
@@ -9565,7 +9677,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-a505eac8f113b65987d4",
@@ -9583,7 +9695,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-24a3c172de4842007009",
@@ -9601,7 +9713,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-a04d57070e9b202e388d",
@@ -9619,7 +9731,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-04549386e189060e5c4c",
@@ -9637,7 +9749,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-f9a6fe3e0b32193c4cc4",
@@ -9655,7 +9767,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-3bbc92d9c76ebc831d0d",
@@ -9673,7 +9785,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-01a8b52eee8198f545c2",
@@ -9691,7 +9803,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-a3c5efc106051d9880cf",
@@ -9723,7 +9835,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-da2959531f9d1b16bdad",
@@ -9755,7 +9867,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-4606c8869e887acedc95",
@@ -9773,7 +9885,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-3010bd685f98103fff8b",
@@ -9806,7 +9918,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-0ff444850a32f480e770",
@@ -9824,7 +9936,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-239e2280ecfcb2d57a7d",
@@ -9879,7 +9991,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-cdb3a0974b1531fad6ff",
@@ -9916,7 +10028,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-0f5606940d290e32925a",
@@ -9953,7 +10065,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-5566ff71d78fb64b9704",
@@ -9990,7 +10102,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-0bf3548ac112958fdbb3",
@@ -10027,7 +10139,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-5cfeb0a21c43a6ad0b4a",
@@ -10064,7 +10176,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-1c92d28daec6757a5f81",
@@ -10101,7 +10213,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-12d9a24c570f02613026",
@@ -10138,7 +10250,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-9816ef385205d1d6a3e3",
@@ -10175,7 +10287,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-125da09829a7535d6ba9",
@@ -10212,7 +10324,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-14a2898e01e639d03851",
@@ -10249,7 +10361,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-a6bb8249c7c65f548ce8",
@@ -10286,7 +10398,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-006e008dc86c50671b69",
@@ -10323,7 +10435,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-f6e0808ce1e59eba51e2",
@@ -10360,7 +10472,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-36adacada84a357d869a",
@@ -10397,7 +10509,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-341b3c01f512305d97d9",
@@ -10438,7 +10550,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-53ce9b1b9d24f51a679c",
@@ -10483,7 +10595,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-dfe7e0c6ff3981408b54",
@@ -10501,7 +10613,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-a07eb39dec044669d8f4",
@@ -10519,7 +10631,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-e491c52826ef780cafe0",
@@ -10539,7 +10651,7 @@
       "license": "mit",
       "model_id": "deepseek-ai/DeepSeek-V4-Pro",
       "downloads": 291925,
-      "likes": 5738,
+      "likes": 5739,
       "gated": false,
       "tags": [
         "transformers",
@@ -10556,7 +10668,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-79a546202dec82ae1191",
@@ -10585,7 +10697,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-51630916db21573f06a1",
@@ -10605,7 +10717,7 @@
       "license": "mit",
       "model_id": "deepseek-ai/DeepSeek-V4-Flash",
       "downloads": 992995,
-      "likes": 2426,
+      "likes": 2429,
       "gated": false,
       "tags": [
         "transformers",
@@ -10623,7 +10735,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-e62e4f8ba6e5a32403ae",
@@ -10643,7 +10755,7 @@
       "license": "未标注",
       "model_id": "deepseek-ai/DeepSeek-V4-Flash-Base",
       "downloads": 16652,
-      "likes": 365,
+      "likes": 366,
       "gated": false,
       "tags": [
         "safetensors",
@@ -10652,7 +10764,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-1b257354b88be0768ec9",
@@ -10670,7 +10782,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-592e91e4c864c5cad98e",
@@ -10690,7 +10802,7 @@
       "license": "apache-2.0",
       "model_id": "openai/privacy-filter",
       "downloads": 123314,
-      "likes": 1847,
+      "likes": 1848,
       "gated": false,
       "tags": [
         "transformers",
@@ -10705,7 +10817,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-20e34cbfb714919ccbb0",
@@ -10723,7 +10835,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-c9ba203858442ed83b23",
@@ -10741,7 +10853,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-b1564785bbe560bc5fd3",
@@ -10779,7 +10891,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-7ccaf115118f727218a8",
@@ -10797,7 +10909,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-0b28ec353628cc2443cd",
@@ -10831,7 +10943,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-9b997e7faee2e478febd",
@@ -10869,7 +10981,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-95384e9055c3b715bb5c",
@@ -10887,7 +10999,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-a79868508ad790e1bbd5",
@@ -10923,7 +11035,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-0670781a6cf344bd9e23",
@@ -10963,7 +11075,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-5c155b85c12729158100",
@@ -11001,7 +11113,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-1e12894eb9115449be3e",
@@ -11044,7 +11156,7 @@
         "deploy:azure"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-e48968ad1e2803a72dd7",
@@ -11062,7 +11174,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-22c2ff8bad8cfd85b49c",
@@ -11080,7 +11192,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-fa7cd929ba700e25f011",
@@ -11135,7 +11247,7 @@
         "fp8"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-771bd525f121f624fa1a",
@@ -11153,7 +11265,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-263c2043f1c3113e3ab2",
@@ -11171,7 +11283,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-41a46dd9a7eae828eaa2",
@@ -11217,7 +11329,7 @@
         "deploy:azure"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-85771c0fe867964da36e",
@@ -11235,7 +11347,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-8afdb503cc5635992639",
@@ -11253,7 +11365,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-8a8601b30dd910cc816f",
@@ -11271,7 +11383,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-86fcbee4d528df3ce5b4",
@@ -11298,7 +11410,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-b64c2273867bf347c7f7",
@@ -11327,7 +11439,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-aef92669f3475a2cf9ab",
@@ -11355,7 +11467,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-01572b4c34e91a630132",
@@ -11373,7 +11485,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-0ed7a8a167fee1d4ad4d",
@@ -11391,7 +11503,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-cbb82b8f1dbc1dba8a50",
@@ -11425,7 +11537,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-e0d13383f61099e5f7e1",
@@ -11461,7 +11573,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-5becf449a527f5c9c85c",
@@ -11479,7 +11591,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-f59abf9daf09ece401fd",
@@ -11497,7 +11609,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-eea6230f612ad1136377",
@@ -11515,7 +11627,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-287a6bf6715408113f4b",
@@ -11533,7 +11645,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-ba0e40128dd7dd150df2",
@@ -11551,7 +11663,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-5b0f7d2e4361138d78c8",
@@ -11605,7 +11717,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-2354f4adeedd249abc7c",
@@ -11623,7 +11735,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-d086fa1f6870c40c1358",
@@ -11678,7 +11790,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-b4a245738a8f15bbdeba",
@@ -11696,7 +11808,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-46b3e364b73731677062",
@@ -11714,7 +11826,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-2e6c1604f2e6fc495942",
@@ -11746,7 +11858,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-4b51d8cada0e95386b12",
@@ -11764,7 +11876,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-50053e8f8599d9ab1b1c",
@@ -11797,7 +11909,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-8a405da361c4c94acd34",
@@ -11829,7 +11941,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-692d81cee37e36172c24",
@@ -11861,7 +11973,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-ff50c369e6b5634f1c87",
@@ -11879,7 +11991,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-5d2f69bf19505c2767f0",
@@ -11897,7 +12009,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-407f7c69ffbce6bc006e",
@@ -11915,7 +12027,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-338aaf898d6c024266e3",
@@ -11933,7 +12045,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-169a90f743eee3085ed5",
@@ -11951,7 +12063,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-4a841ea7ec7ce18860ac",
@@ -11969,7 +12081,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-c59556df4dfecac499cc",
@@ -12008,7 +12120,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-f6b93302265de7767e51",
@@ -12026,7 +12138,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-22eda346a13f0b8a88f3",
@@ -12064,7 +12176,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-a664c67120149d476ea0",
@@ -12103,7 +12215,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-319e2392be50284291b0",
@@ -12121,7 +12233,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-aec434a838fad6164b10",
@@ -12139,7 +12251,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-dd64fe3084a4f825eb0e",
@@ -12157,7 +12269,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-9aba7995b6a5f362ca76",
@@ -12175,7 +12287,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-e205ffac9d9f156d0028",
@@ -12193,7 +12305,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-96d26eaa8234f2f96858",
@@ -12211,7 +12323,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-15823ae5556ea01d28f4",
@@ -12229,7 +12341,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-34e528803261da7000df",
@@ -12250,7 +12362,7 @@
       "license": "mit",
       "model_id": "zai-org/GLM-OCR",
       "downloads": 2136616,
-      "likes": 2243,
+      "likes": 2244,
       "gated": false,
       "tags": [
         "transformers",
@@ -12276,7 +12388,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-54ada6137f6932008291",
@@ -12294,7 +12406,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-5866a988c63e1131c22f",
@@ -12334,7 +12446,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-99c187e5889409b91b59",
@@ -12354,7 +12466,7 @@
       "license": "apache-2.0",
       "model_id": "mistralai/Mistral-Small-4-119B-2603",
       "downloads": 32045,
-      "likes": 484,
+      "likes": 485,
       "gated": false,
       "tags": [
         "safetensors",
@@ -12389,7 +12501,7 @@
         "fp8"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-ae10eb4597fe2dea3b83",
@@ -12407,7 +12519,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-3cfde46429d5cbfeda4b",
@@ -12425,7 +12537,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-4161ddfc8ff53ac773d2",
@@ -12445,7 +12557,7 @@
       "license": "apache-2.0",
       "model_id": "mistralai/Voxtral-Mini-4B-Realtime-2602",
       "downloads": 1485519,
-      "likes": 1067,
+      "likes": 1068,
       "gated": false,
       "tags": [
         "vllm",
@@ -12475,7 +12587,7 @@
         "deploy:sagemaker"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-7039c88efbfe0258aeb5",
@@ -12496,7 +12608,7 @@
       "license": "mit",
       "model_id": "zai-org/GLM-4.7-Flash",
       "downloads": 1116616,
-      "likes": 1915,
+      "likes": 1916,
       "gated": false,
       "tags": [
         "transformers",
@@ -12514,7 +12626,7 @@
         "deploy:azure"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-feff5c589b8ce53b1458",
@@ -12532,7 +12644,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-536fc67d7afeef78e51d",
@@ -12565,7 +12677,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-0f55d75e66cb2876bfbf",
@@ -12598,7 +12710,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-b795c0dd183e1ab1493c",
@@ -12632,7 +12744,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-b12fb2e64a24525a96a7",
@@ -12652,7 +12764,7 @@
       "license": "apache-2.0",
       "model_id": "black-forest-labs/FLUX.2-klein-4b-fp8",
       "downloads": 604935,
-      "likes": 101,
+      "likes": 102,
       "gated": false,
       "tags": [
         "diffusion-single-file",
@@ -12665,7 +12777,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-5fb2b242ea9908c43b31",
@@ -12685,7 +12797,7 @@
       "license": "other",
       "model_id": "black-forest-labs/FLUX.2-klein-9b-fp8",
       "downloads": 50352,
-      "likes": 1050,
+      "likes": 1056,
       "gated": true,
       "tags": [
         "diffusers",
@@ -12699,7 +12811,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-cc3110daef704a083ae3",
@@ -12719,7 +12831,7 @@
       "license": "other",
       "model_id": "black-forest-labs/FLUX.2-klein-base-9b-fp8",
       "downloads": 33242,
-      "likes": 1829,
+      "likes": 1844,
       "gated": true,
       "tags": [
         "diffusers",
@@ -12733,7 +12845,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-4337e17885e9257547f6",
@@ -12767,7 +12879,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-6e83130dcc0d1d60cd3b",
@@ -12800,7 +12912,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-01f30fd1ba60d71269c0",
@@ -12818,7 +12930,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-b291f7d18d82aa558aa5",
@@ -12836,7 +12948,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-de63e2d3f0ade1b53d66",
@@ -12856,7 +12968,7 @@
       "license": "apache-2.0",
       "model_id": "black-forest-labs/FLUX.2-klein-4B",
       "downloads": 440866,
-      "likes": 1152,
+      "likes": 1155,
       "gated": false,
       "tags": [
         "diffusers",
@@ -12873,7 +12985,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-4900ea75a961053d6ae5",
@@ -12893,7 +13005,7 @@
       "license": "apache-2.0",
       "model_id": "black-forest-labs/FLUX.2-klein-base-4B",
       "downloads": 633360,
-      "likes": 201,
+      "likes": 202,
       "gated": false,
       "tags": [
         "diffusers",
@@ -12910,7 +13022,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-3a607dee7157cc845b2b",
@@ -12930,7 +13042,7 @@
       "license": "other",
       "model_id": "black-forest-labs/FLUX.2-klein-base-9B",
       "downloads": 63936,
-      "likes": 465,
+      "likes": 466,
       "gated": true,
       "tags": [
         "diffusers",
@@ -12946,7 +13058,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-b7e41681dae6bd55d670",
@@ -12966,7 +13078,7 @@
       "license": "other",
       "model_id": "black-forest-labs/FLUX.2-klein-9B",
       "downloads": 96262,
-      "likes": 1882,
+      "likes": 1887,
       "gated": true,
       "tags": [
         "diffusers",
@@ -12982,7 +13094,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-3236cdf87a2645b025d1",
@@ -13000,7 +13112,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-ca207c5b890f9a2ba741",
@@ -13032,7 +13144,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-4f93ff4ce98d4211708e",
@@ -13064,7 +13176,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-27d219dd79b5e1d1b433",
@@ -13082,7 +13194,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-929ce98fba5d95b4a2c8",
@@ -13102,7 +13214,7 @@
       "license": "mit",
       "model_id": "zai-org/GLM-Image",
       "downloads": 19640,
-      "likes": 1130,
+      "likes": 1132,
       "gated": false,
       "tags": [
         "diffusers",
@@ -13117,7 +13229,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-7339e10bcdac8587fe3c",
@@ -13135,7 +13247,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-d059ade8a37b01177912",
@@ -13169,7 +13281,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-889ecf779b5163b9e1f4",
@@ -13189,7 +13301,7 @@
       "license": "other",
       "model_id": "black-forest-labs/FLUX.1-dev-FP8",
       "downloads": 0,
-      "likes": 210,
+      "likes": 212,
       "gated": true,
       "tags": [
         "text-to-image",
@@ -13199,7 +13311,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-c76ec801c57cf2a72eb1",
@@ -13229,7 +13341,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-4c4a763c3323abdd9c0c",
@@ -13268,7 +13380,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-2e78896c9eeea2b63e12",
@@ -13302,7 +13414,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-ec4296660093ce1757d5",
@@ -13342,7 +13454,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-091308d5798ed316db74",
@@ -13381,7 +13493,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-93180858c55bc9d62ac4",
@@ -13421,7 +13533,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-020ab4b4b78d46cf764a",
@@ -13439,7 +13551,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-cd8d6c8023f2f56d4036",
@@ -13457,7 +13569,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-7fda7ddac79f0115fb5e",
@@ -13475,7 +13587,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-2ffa0a15d6b0669e9dbf",
@@ -13493,7 +13605,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-8ca7b6fe706c6ef73aca",
@@ -13545,7 +13657,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-325812deaa0b17737863",
@@ -13579,7 +13691,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-1c47ab14ffb8b5bcc4ce",
@@ -13613,7 +13725,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-eafd28afa8a69fbca252",
@@ -13631,7 +13743,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-2f52304de342a1c37057",
@@ -13663,7 +13775,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-03cba5d2396520e36db7",
@@ -13681,7 +13793,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-a8566cb5eb094d967ba0",
@@ -13713,7 +13825,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-792a066e22a14011d4fc",
@@ -13731,7 +13843,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-18ba0c6ad33e9be0d5cf",
@@ -13749,7 +13861,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-10ab1c39be1497734c70",
@@ -13767,7 +13879,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-7268b0d7d72c016b7757",
@@ -13806,7 +13918,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-3bbb9f10766d63179604",
@@ -13843,7 +13955,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-c4b3ed68f0bf557f04f4",
@@ -13884,7 +13996,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-55811e101a1e69cc9347",
@@ -13912,7 +14024,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-05bc5d5eb3fadfbad7bf",
@@ -13953,7 +14065,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-36e9a3cee633df52213a",
@@ -13991,7 +14103,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-c4ebdefe458fea4b01ce",
@@ -14029,7 +14141,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-24d798fef659c5daa006",
@@ -14068,7 +14180,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-c728184713e6255b7ca5",
@@ -14096,7 +14208,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "news-f45c751a8120d4e12cec",
@@ -14114,7 +14226,7 @@
         "官方动态"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-fda3b74e36041eb9b4e4",
@@ -14134,7 +14246,7 @@
       "license": "mit",
       "model_id": "deepseek-ai/DeepSeek-V3.2",
       "downloads": 11119673,
-      "likes": 1616,
+      "likes": 1618,
       "gated": false,
       "tags": [
         "transformers",
@@ -14151,7 +14263,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-5085c6bb49d01678eab7",
@@ -14191,7 +14303,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-5c65edd933d9c2b190a2",
@@ -14235,7 +14347,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-d1bc13ec25678df8e26a",
@@ -14278,7 +14390,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-49e7fad0dcd2f6f352b4",
@@ -14310,7 +14422,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-da73719c575130e356d7",
@@ -14330,7 +14442,7 @@
       "license": "apache-2.0",
       "model_id": "mistralai/Devstral-Small-2-24B-Instruct-2512",
       "downloads": 17681,
-      "likes": 718,
+      "likes": 719,
       "gated": false,
       "tags": [
         "vllm",
@@ -14346,7 +14458,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-191e03e187d2f77cd08f",
@@ -14382,7 +14494,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "model-78052f6466b64cf123ed",
@@ -14419,7 +14531,7 @@
         "region:us"
       ],
       "first_seen_at": "2026-11-19T02:29:58Z",
-      "last_seen_at": "2026-11-24T09:56:50Z"
+      "last_seen_at": "2026-11-25T08:39:44Z"
     }
   ],
   "sources": [
@@ -14428,201 +14540,204 @@
       "name": "OpenAI",
       "kind": "model",
       "url": "https://huggingface.co/openai",
-      "checked_at": "2026-11-24T09:56:50Z",
+      "checked_at": "2026-11-25T08:39:44Z",
       "status": "ok",
       "count": 30,
-      "last_success_at": "2026-11-24T09:56:50Z"
+      "last_success_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "hf-google",
       "name": "Google",
       "kind": "model",
       "url": "https://huggingface.co/google",
-      "checked_at": "2026-11-24T09:56:50Z",
+      "checked_at": "2026-11-25T08:39:44Z",
       "status": "ok",
       "count": 30,
-      "last_success_at": "2026-11-24T09:56:50Z"
+      "last_success_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "hf-Qwen",
       "name": "通义千问",
       "kind": "model",
       "url": "https://huggingface.co/Qwen",
-      "checked_at": "2026-11-24T09:56:50Z",
+      "checked_at": "2026-11-25T08:39:44Z",
       "status": "ok",
       "count": 30,
-      "last_success_at": "2026-11-24T09:56:50Z"
+      "last_success_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "hf-deepseek-ai",
       "name": "DeepSeek",
       "kind": "model",
       "url": "https://huggingface.co/deepseek-ai",
-      "checked_at": "2026-11-24T09:56:50Z",
+      "checked_at": "2026-11-25T08:39:44Z",
       "status": "ok",
       "count": 30,
-      "last_success_at": "2026-11-24T09:56:50Z"
+      "last_success_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "hf-meta-llama",
       "name": "Meta",
       "kind": "model",
       "url": "https://huggingface.co/meta-llama",
-      "checked_at": "2026-11-24T09:56:50Z",
+      "checked_at": "2026-11-25T08:39:44Z",
       "status": "ok",
       "count": 30,
-      "last_success_at": "2026-11-24T09:56:50Z"
+      "last_success_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "hf-mistralai",
       "name": "Mistral",
       "kind": "model",
       "url": "https://huggingface.co/mistralai",
-      "checked_at": "2026-11-24T09:56:50Z",
+      "checked_at": "2026-11-25T08:39:44Z",
       "status": "ok",
       "count": 30,
-      "last_success_at": "2026-11-24T09:56:50Z"
+      "last_success_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "hf-microsoft",
       "name": "Microsoft",
       "kind": "model",
       "url": "https://huggingface.co/microsoft",
-      "checked_at": "2026-11-24T09:56:50Z",
+      "checked_at": "2026-11-25T08:39:44Z",
       "status": "ok",
       "count": 30,
-      "last_success_at": "2026-11-24T09:56:50Z"
+      "last_success_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "hf-nvidia",
       "name": "NVIDIA",
       "kind": "model",
       "url": "https://huggingface.co/nvidia",
-      "checked_at": "2026-11-24T09:56:50Z",
+      "checked_at": "2026-11-25T08:39:44Z",
       "status": "ok",
       "count": 30,
-      "last_success_at": "2026-11-24T09:56:50Z"
+      "last_success_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "hf-black-forest-labs",
       "name": "Black Forest Labs",
       "kind": "model",
       "url": "https://huggingface.co/black-forest-labs",
-      "checked_at": "2026-11-24T09:56:50Z",
+      "checked_at": "2026-11-25T08:39:44Z",
       "status": "ok",
       "count": 30,
-      "last_success_at": "2026-11-24T09:56:50Z"
+      "last_success_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "hf-stabilityai",
       "name": "Stability AI",
       "kind": "model",
       "url": "https://huggingface.co/stabilityai",
-      "checked_at": "2026-11-24T09:56:50Z",
+      "checked_at": "2026-11-25T08:39:44Z",
       "status": "ok",
       "count": 30,
-      "last_success_at": "2026-11-24T09:56:50Z"
+      "last_success_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "hf-moonshotai",
       "name": "月之暗面",
       "kind": "model",
       "url": "https://huggingface.co/moonshotai",
-      "checked_at": "2026-11-24T09:56:50Z",
+      "checked_at": "2026-11-25T08:39:44Z",
       "status": "ok",
       "count": 20,
-      "last_success_at": "2026-11-24T09:56:50Z"
+      "last_success_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "hf-MiniMaxAI",
       "name": "MiniMax",
       "kind": "model",
       "url": "https://huggingface.co/MiniMaxAI",
-      "checked_at": "2026-11-24T09:56:50Z",
+      "checked_at": "2026-11-25T08:39:44Z",
       "status": "ok",
       "count": 24,
-      "last_success_at": "2026-11-24T09:56:50Z"
+      "last_success_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "hf-zai-org",
       "name": "智谱",
       "kind": "model",
       "url": "https://huggingface.co/zai-org",
-      "checked_at": "2026-11-24T09:56:50Z",
+      "checked_at": "2026-11-25T08:39:44Z",
       "status": "ok",
       "count": 30,
-      "last_success_at": "2026-11-24T09:56:50Z"
+      "last_success_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "hf-BAAI",
       "name": "北京智源",
       "kind": "model",
       "url": "https://huggingface.co/BAAI",
-      "checked_at": "2026-11-24T09:56:50Z",
+      "checked_at": "2026-11-25T08:39:44Z",
       "status": "ok",
       "count": 30,
-      "last_success_at": "2026-11-24T09:56:50Z"
+      "last_success_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "hf-Tencent-Hunyuan",
       "name": "腾讯混元",
       "kind": "model",
       "url": "https://huggingface.co/Tencent-Hunyuan",
-      "checked_at": "2026-11-24T09:56:50Z",
+      "checked_at": "2026-11-25T08:39:44Z",
       "status": "ok",
       "count": 25,
-      "last_success_at": "2026-11-24T09:56:50Z"
+      "last_success_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "hf-HuggingFaceTB",
       "name": "Hugging Face",
       "kind": "model",
       "url": "https://huggingface.co/HuggingFaceTB",
-      "checked_at": "2026-11-24T09:56:50Z",
+      "checked_at": "2026-11-25T08:39:44Z",
       "status": "ok",
       "count": 30,
-      "last_success_at": "2026-11-24T09:56:50Z"
+      "last_success_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "openai-news",
       "name": "OpenAI",
       "kind": "announcement",
       "url": "https://openai.com/news/rss.xml",
-      "checked_at": "2026-11-24T09:56:50Z",
+      "checked_at": "2026-11-25T08:39:44Z",
       "status": "ok",
-      "count": 298,
-      "last_success_at": "2026-11-24T09:56:50Z"
+      "count": 300,
+      "last_success_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "deepmind-news",
       "name": "Google DeepMind",
       "kind": "announcement",
       "url": "https://deepmind.google/blog/rss.xml",
-      "checked_at": "2026-11-24T09:56:50Z",
+      "checked_at": "2026-11-25T08:39:44Z",
       "status": "ok",
       "count": 47,
-      "last_success_at": "2026-11-24T09:56:50Z"
+      "last_success_at": "2026-11-25T08:39:44Z"
     },
     {
       "id": "anthropic-news",
       "name": "Anthropic",
       "kind": "announcement",
       "url": "https://www.anthropic.com/news",
-      "checked_at": "2026-11-24T09:56:50Z",
+      "checked_at": "2026-11-25T08:39:44Z",
       "status": "ok",
       "count": 2,
-      "last_success_at": "2026-11-24T09:56:50Z"
+      "last_success_at": "2026-11-25T08:39:44Z"
     }
   ],
   "today": {
-    "date": "2026-11-24",
-    "updated_at": "2026-11-24T09:56:50Z",
+    "date": "2026-11-25",
+    "updated_at": "2026-11-25T08:39:44Z",
     "bootstrap": false,
     "new_ids": [
-      "model-2e63f4646062ff05508b"
+      "model-786bc3f414a85c8901df",
+      "model-c6f26f5078d6394b37ce",
+      "news-a3c9028eefd69cfd15ff",
+      "news-ac2f786b30f6d45772c4"
     ],
     "imported_ids": [],
-    "total": 489,
+    "total": 493,
     "healthy_sources": 19,
     "source_count": 19
   },
